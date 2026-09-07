@@ -6,6 +6,7 @@ env
 .VSCodeCounter
 private
 src/optimizer
+archive
 # from boilerplate
 # Byte-compiled / optimized / DLL files
 __pycache__/
