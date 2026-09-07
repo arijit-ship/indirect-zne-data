@@ -4,11 +4,11 @@ The indirect-control paradigm offers a scalable approach to quantum computation 
 
 # Source Code Repository
 
-Simulation source code can be found here:
+Simulation source code can be found here (Note that the code requires some setup before it can be executed:):
 
-[GitHub indirect-zne](https://github.com/arijit-ship/indirect-zne/tree/dev/src)
+[GitHub indirect-zne (dev branch)](https://github.com/arijit-ship/indirect-zne/tree/dev/src)
 
-# _VQE.json File
+# Details of _VQE.json File
 
 | **Section**    | **Key**                                          | **Type**              | **Description**                                                                 |
 |----------------|----------------------------------------------------|------------------------|-----------------------------------------------------------------------------------|
