@@ -13,6 +13,11 @@
         "error_rate": 0.9085087868713853,
         "error_rate_std": 0.101413880369569
       },
+      "accuracy_vs_baseline": {
+        "relative_error_pct": 6.883713799545311,
+        "accuracy_pct": 93.1162862004547,
+        "accuracy_std_pct": 0.7684065777387664
+      },
       "runtime": 178633847557.90765,
       "comp_cost": 3918311341630602.5,
       "depth": 70.0,
@@ -26,6 +31,11 @@
       "error_rate": {
         "error_rate": 0.34219397322574174,
         "error_rate_std": 0.08092004325500422
+      },
+      "accuracy_vs_baseline": {
+        "relative_error_pct": 2.59278216089367,
+        "accuracy_pct": 97.40721783910632,
+        "accuracy_std_pct": 0.6131260659927256
       },
       "runtime": 11358143780895.797,
       "comp_cost": 4193061692198858.5,
@@ -41,6 +51,11 @@
         "error_rate": 0.23597162480303702,
         "error_rate_std": 0.07156418420617641
       },
+      "accuracy_vs_baseline": {
+        "relative_error_pct": 1.7879421238748572,
+        "accuracy_pct": 98.21205787612514,
+        "accuracy_std_pct": 0.5422373118368077
+      },
       "runtime": 325546876697744.8,
       "comp_cost": 1.261538001553948e+16,
       "depth": 574.0,
@@ -55,6 +70,11 @@
         "error_rate": 0.27172973259004074,
         "error_rate_std": 0.07310607120238402
       },
+      "accuracy_vs_baseline": {
+        "relative_error_pct": 2.0588790521424234,
+        "accuracy_pct": 97.94112094785757,
+        "accuracy_std_pct": 0.5539200923960191
+      },
       "runtime": 5697271208296629.0,
       "comp_cost": 1.6849724998890125e+17,
       "depth": 1182.0,
@@ -68,6 +88,11 @@
       "error_rate": {
         "error_rate": 0.3515197432758672,
         "error_rate_std": 0.08232308337998623
+      },
+      "accuracy_vs_baseline": {
+        "relative_error_pct": 2.6634429326034357,
+        "accuracy_pct": 97.33655706739657,
+        "accuracy_std_pct": 0.6237568125625127
       },
       "runtime": 8.212207047958114e+16,
       "comp_cost": 2.555576346722923e+18,
