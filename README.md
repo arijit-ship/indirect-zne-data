@@ -8,6 +8,14 @@ Simulation source code can be found here (Note that the code requires some setup
 
 [GitHub indirect-zne (dev branch)](https://github.com/arijit-ship/indirect-zne/tree/dev/src)
 
+# How to Read the JSON Files
+
+The simulation data are mainly JSON files. 
+
+ - `_VQE.json` : VQE results. Contains optimized parameters, system configurations etc. [More details here.](docs/vqe.md)
+ - `_REDUNDANT.json`: Output from unitary folded circut runs. Contains system configurations, VQE-optimized parameter used etc.
+ - `_ZNE.json`: ZNE results.
+
 
 # Figures
 
