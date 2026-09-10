@@ -28,8 +28,8 @@ The simulation data are mainly JSON files.
 # Figures
 
 
-|#|| Figure | Link |
-| --- | --- |
+| # | Figure | Link |
+| --- | --- | --- |
 |1| ![trotter1](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_VARY_GAMMA.png) | [Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb), [JSON Data](experiments/recent/REVIEW-SIMULATIONS/data/6Q-trotter)|
 |2|![trotter2](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_SCALE_FACTOR.png)| [Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb), [JSON Data](experiments/recent/REVIEW-SIMULATIONS/data/6Q-trotter)|
 |3|![univariate-7Q](experiments/recent/REVIEW-SIMULATIONS/reports/7Q-various-tmax/RESULT-SINGLE-RIC-ZNE-VS-ORDER-IEEE_SINGLE_COL.png)|[Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/7Q-various-tmax.ipynb), [JSON Data](experiments/recent/REVIEW-SIMULATIONS/data/7Q-various-tmax/7Q_tmax_sweep_ising_depol_tmax20_20260725_110811)|
