@@ -13,8 +13,8 @@ Simulation source code can be found here (Note that the code requires some setup
 The simulation data are mainly JSON files. 
 
  - `_VQE.json` : VQE results. Contains optimized parameters, system configurations etc. [More details here.](docs/vqe.md)
- - `_REDUNDANT.json`: Output from unitary folded circut runs. Contains system configurations, VQE-optimized parameter used etc.
- - `_ZNE.json`: ZNE results.
+ - `_REDUNDANT.json`: Output from unitary folded circut runs. Contains system configurations, VQE-optimized parameter used etc. [More details here.](docs/unitaryfolding.md)
+ - `_ZNE.json`: ZNE results. [More details here.](docs/zne.md)
 
 
 # Figures
