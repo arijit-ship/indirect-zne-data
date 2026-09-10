@@ -10,9 +10,11 @@ This repository hosts simulation data (mainly JSON files), Jupyter notebooks tha
 
 # Source Code Repository
 
-Simulation source code can be found here (Note that the code requires some setup before it can be executed:):
+Simulation source code can be found here: 
 
 [GitHub indirect-zne (dev branch)](https://github.com/arijit-ship/indirect-zne/tree/dev)
+
+⚠️ Note that the code requires setup prior to execution and is not fully documented.
 
 # How to Read the JSON Files
 
