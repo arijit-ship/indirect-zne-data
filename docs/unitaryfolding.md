@@ -1,8 +1,8 @@
-# Details of _REDUNDANT.json File
+# About _REDUNDANT.json File
 
 Output from unitary folded circut runs. Contains system configurations, VQE-optimized parameter used etc. 
 
-# Top-Level Keys:
+## Top-Level Keys:
 
 | Key | Description |
 | :--- | :--- |
@@ -10,7 +10,7 @@ Output from unitary folded circut runs. Contains system configurations, VQE-opti
 | `output` | Results generated from folded circuit runs. |
 | `others` | Contains supplementary metadata and auxiliary files. |
 
-# Detailed Keys:
+## Detailed Keys:
 
 ⚠️ PLACEHOLDER: This values are not concerning for _REDUNDANT.json files and does not affect the experiment.
 
