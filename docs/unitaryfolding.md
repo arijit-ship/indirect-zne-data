@@ -1,12 +1,26 @@
 # Details of _REDUNDANT.json File
 
+Output from unitary folded circut runs. Contains system configurations, VQE-optimized parameter used etc. 
+
+# Top-Level Keys:
+
+| Key | Description |
+| :--- | :--- |
+| `config` | Raw configuration input imported from the YAML file. |
+| `output` | Results generated from folded circuit runs. |
+| `others` | Contains supplementary metadata and auxiliary files. |
+
+# Detailed Keys:
+
 ⚠️ PLACEHOLDER: This values are not concerning for _REDUNDANT.json files and does not affect the experiment.
+
+
 
 
 | **Section** | **Key**                                                  | **Type**                 | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----------- | -------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **config**  | `message`                                                | String                   | Note on where the full step-by-step run history is stored (e.g., `"History is stored in HDF5."`).                                                                                                                                                                                                                                                                                                                                              |
-|             | `history`                                                | Boolean                  | Whether per-evaluation and per-iteration history is recorded to a separate history file.                                                                                                                                                                                                                                                                                                                                                       |
+|             | `history`⚠️ PLACEHOLDER                                  | Boolean                  | Whether per-evaluation and per-iteration history is recorded to a separate history file.                                                                                                                                                                                                                                                                                                                                                       |
 |             | `run`                                                    | String                   | Algorithm executed — `'redundant'` for this file type: it re-runs a fixed circuit at several noise-scaling levels rather than optimizing.                                                                                                                                                                                                                                                                                                      |
 |             | `nqubits`                                                | Integer                  | Number of qubits in the system.                                                                                                                                                                                                                                                                                                                                                                                                                |
 |             | `state`                                                  | String                   | Simulated state representation: `'dmatrix'` (density matrix) or `'statevector'`.                                                                                                                                                                                                                                                                                                                                                               |
@@ -57,6 +71,7 @@
 |             | `final_states`⚠️ PLACEHOLDER                             | List                     | Reserved slot for recording the circuit's final quantum state(s) per identity-factor combination; empty unless that recording option is enabled.                                                                                                                                                                                                                                                                                               |
 
 
-                                                                                                                                                                          |
-
+```
+                                                                                                                                                                      |
+```
 
