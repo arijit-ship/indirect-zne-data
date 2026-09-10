@@ -13,4 +13,4 @@ Simulation source code can be found here (Note that the code requires some setup
 
 | Figure | Link |
 | --- | --- |
-| ![alt text](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_VARY_GAMMA.png) | [Jupyter Notebook] (experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb)|
+| ![alt text](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_VARY_GAMMA.png) | [Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb)|
