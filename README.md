@@ -19,6 +19,7 @@ The simulation data are mainly JSON files.
 
 # Figures
 
+
 | Figure | Link |
 | --- | --- |
 | ![trotter1](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_VARY_GAMMA.png) | [Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb), [JSON Data](experiments/recent/REVIEW-SIMULATIONS/data/6Q-trotter)|
