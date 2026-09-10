@@ -1,7 +1,23 @@
 
-# Details of _VQE.json File
+# About _VQE.json File
+
+Output from unitary folded circut runs. Contains system configurations, VQE-optimized parameter used etc. 
+
+## Top-Level Keys:
+
+| Key | Description |
+| :--- | :--- |
+|`meta`| System metadata. |
+| `config` | Raw configuration input imported from the YAML file. |
+| `output` | Results generated from folded circuit runs. |
+| `others` | Other details. |
+|`artifacts`|Additional artifacts.|
+
+## Detailed Keys:
+
 
 ⚠️ PLACEHOLDER: This values are not concerning for VQE.json files and does not affect the experiment.
+
 
 | **Section**   | **Key**                                                   | **Type**                 | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------- | --------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

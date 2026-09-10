@@ -8,7 +8,7 @@ Output from unitary folded circut runs. Contains system configurations, VQE-opti
 | :--- | :--- |
 | `config` | Raw configuration input imported from the YAML file. |
 | `output` | Results generated from folded circuit runs. |
-| `others` | Contains supplementary metadata and auxiliary files. |
+| `others` | Other details. |
 
 ## Detailed Keys:
 
