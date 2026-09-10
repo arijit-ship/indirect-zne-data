@@ -13,4 +13,7 @@ Simulation source code can be found here (Note that the code requires some setup
 
 | Figure | Link |
 | --- | --- |
-| ![alt text](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_VARY_GAMMA.png) | [Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb)|
+| ![trotter1](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_VARY_GAMMA.png) | [Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb), (JSON Data)[experiments/recent/REVIEW-SIMULATIONS/data/6Q-trotter]|
+|![trotter2](experiments/recent/REVIEW-SIMULATIONS/reports/6Q-trotter/COMPARISION_TROTTER_VS_NO_TROTTER_6-QUBIT_SCALE_FACTOR.png)| [Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/6Q-trotter.ipynb), (JSON Data)[experiments/recent/REVIEW-SIMULATIONS/data/6Q-trotter]|
+|![univariate-7Q](experiments/recent/REVIEW-SIMULATIONS/reports/7Q-various-tmax/RESULT-SINGLE-RIC-ZNE-VS-ORDER-IEEE_SINGLE_COL.png)|[Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/7Q-various-tmax.ipynb), [JSON Data](experiments/recent/REVIEW-SIMULATIONS/data/7Q-various-tmax/7Q_tmax_sweep_ising_depol_tmax20_20260725_110811)|
+|![7Q-var-scaling](experiments/recent/REVIEW-SIMULATIONS/reports/7Q-various-tmax/cost_beta_ric3.png)|[Jupyter Notebook](experiments/recent/REVIEW-SIMULATIONS/7Q-various-tmax.ipynb), [JSON Data](experiments/recent/REVIEW-SIMULATIONS/data/7Q-various-tmax/7Q_tmax_sweep_ising_depol_tmax20_20260725_110811)|
