@@ -12,7 +12,7 @@ Output from unitary folded circut runs. Contains system configurations, VQE-opti
 
 ## Detailed Keys:
 
-⚠️ PLACEHOLDER: This values are not concerning for _REDUNDANT.json files and does not affect the experiment.
+⚠️ PLACEHOLDER: Dummy values.
 
 
 

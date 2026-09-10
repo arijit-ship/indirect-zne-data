@@ -1,6 +1,22 @@
-# Details of _ZNE.json File
+# About _ZNE.json File
 
-⚠️ PLACEHOLDER: This values are not concerning for _ZNE.json files and does not affect the experiment.
+Output from ZNE.
+
+## Top-Level Keys:
+
+| Key | Description |
+| :--- | :--- |
+|`meta`| System metadata. |
+| `config` | Raw configuration input imported from the YAML file. |
+| `output` | Results generated from ZNE. |
+
+
+## Detailed Keys:
+
+
+⚠️ PLACEHOLDER: Dummy values.
+
+
 
 | **Section** | **Key**                                                  | **Type**                 | **Description**                                                                                                                                                                                                                                                                                                               |
 | ----------- | -------------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
